@@ -1,0 +1,43 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2/05/2021, 10:48:34 PM
+    Author     : juanc
+*/
+body{
+  background: #fafafa;
+}
+
+h1{
+  color: #fafafa;
+}
+
+.padre{
+  width: 60%;
+  text-align: center;
+  padding: 10%;
+
+}
+
+.formulario{
+  padding: 5%;
+  background: #DEDEDE;
+  border-radius: 15px;
+  color: #fafafa;
+}
+
+.btn{
+  background: #fafafa;
+  color: #000000;
+}
+
+.col-6{
+    padding: 10%;
+}
+
+.card{
+    text-align: center;
+}

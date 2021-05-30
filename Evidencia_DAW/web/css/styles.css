@@ -1,0 +1,125 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 24 mar. 2021, 0:38:57
+    Author     : jesgu
+*/
+
+.cat-card {
+    border:none;
+}
+
+.cat-card-body{
+    padding-bottom: 0!important;
+}
+
+.book-cell{
+    
+}
+
+.w-90{
+    width: 80%!important;
+}
+
+.book-title{
+    
+}
+
+.eliminar{
+    color:#6c757d;
+    width:13px;
+    height:15px;
+}
+
+.eliminar:hover{
+    color:#dc3545;
+}
+
+.cat-card-footer {
+    padding:0;
+    background-color:#fff;
+    border-top: none;
+}
+
+.title {
+    font-size: 4rem;;
+}
+
+.genero {
+    font-weight: bold;
+}
+
+.card-body-detalle{
+    padding-top: 0;
+}
+
+.card-header-detalle {
+    padding-top: 0;
+    border:none;
+    background-color:#fff;
+}
+
+.author{
+    color:#A4A4A4;
+    font-size: 0.8rem;
+}
+
+.footer-detalle {
+    margin-top: 16.9rem;
+}
+
+.footer-carrito {
+    margin-top: 31.75rem;
+}
+
+.book-redirect{
+    text-decoration: none;
+    color:#000;
+    font-weight: bold;
+}
+
+.book-redirect:hover{
+    color: #17a2b8;
+    text-decoration: none;
+}
+
+.contenedor{
+    height:calc(100vh - 3rem - 56px - 80px - 130px);
+    display:flex;
+    flex-direction: row;
+    flex-wrap:wrap;
+    justify-content: center;
+    align-items:center;
+}
+
+.unav-cart{
+    flex-direction: column;
+    color:#6c757d;
+}
+
+.bi{
+    font-size:5rem;
+}
+
+.book-cat-title{
+    font-size: 1.3rem;
+    font-weight: normal!important;
+}
+
+.cont{
+    min-height: calc(100vh - 56px - 80px)!important;
+}
+
+.pt-8{
+    padding-top:3rem!important;
+}
+
+footer {
+    height:5rem;
+    background-color: #343a40;
+    color:#fff;
+    width:100%;
+}
